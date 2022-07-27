@@ -6,8 +6,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 ### Tools used
 
 - React
-- Axios
-- Usestate & UseNevigate
+- React-Router
 - Css (grid & flexbox)
 - Media queries
 - JS
