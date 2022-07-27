@@ -1,7 +1,7 @@
 # Netflix_clone
 
 
-This project is a simplified front end clone of Netflix. It was created with React and CSS (Grid and Flexbox). Feel free to contribute!
+This project is a simplified front end clone of Netflix. It was created with React and CSS (Grid and Flexbox). 
 
 ### Tools used
 
@@ -39,5 +39,5 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 ![Screenshot (19)](https://user-images.githubusercontent.com/106462901/181195087-a24daf3a-54c9-4efc-ab4b-a2567c74ad6f.png)
 
 
-Please feel free to create a pull request and submit any issues!
-Currently looking for backend developers. If you would to contribute to support a backend, reach out, all ideas are welcomed!
+Feel free to contribute!
+
