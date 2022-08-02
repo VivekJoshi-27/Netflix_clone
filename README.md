@@ -16,6 +16,8 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 - Install dependencies: run `npm install` in root project
 - Run project: `npm start`
 
+### Demo :- https://clone-natflix.netlify.app
+
 ### User Stories
 
 - User can login in their account
